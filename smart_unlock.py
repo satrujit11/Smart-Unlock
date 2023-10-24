@@ -1,6 +1,7 @@
 import time
 import subprocess
 
+#phone mac address
 PHONE_ADDRESS = "94:52:44:CD:97:7F"
 SIGNAL_THRESHOLD = -10
 
